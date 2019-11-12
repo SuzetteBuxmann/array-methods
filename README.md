@@ -1,2 +1,2 @@
 # array-methods
-Some array method examples I've learned during Learn to Program in Javascript: Beginner to Pro by Raghavendra Dixit
+Some array method examples (map, fiter, reduce) I've learned during Learn to Program in Javascript: Beginner to Pro by Raghavendra Dixit
